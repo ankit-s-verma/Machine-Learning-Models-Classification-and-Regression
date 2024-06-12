@@ -8,7 +8,7 @@ Classification Models
 This section includes a variety of classification models, ranging from simple logistic regression to complex ensemble methods.
 
 Algorithms Included:
-Logistic Regression
+Logistic Regression and 
 Random Forest
 
 Key Features:
@@ -22,7 +22,7 @@ Regression Models
 This section encompasses a diverse set of regression models, from linear regression to advanced deep learning techniques.
 
 Algorithms Included:
-XG Boost
+XG Boost and 
 Random Forest
 
 Key Features:
