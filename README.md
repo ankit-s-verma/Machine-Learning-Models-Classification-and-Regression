@@ -32,6 +32,3 @@ Model training with cross-validation,
 Evaluation metrics (Mean Absolute Error, Mean Squared Error, R² Score), 
 Visualization of predictions and residuals.
 
-
-Clone the repository:
-git clone https://github.com/ankit.s.verma/Machine-Learning-Models-Classification-and-Regression.git
