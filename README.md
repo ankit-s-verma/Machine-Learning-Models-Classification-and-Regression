@@ -34,5 +34,4 @@ Visualization of predictions and residuals.
 
 
 Clone the repository:
-
 git clone https://github.com/ankit.s.verma/Machine-Learning-Models-Classification-and-Regression.git
