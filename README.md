@@ -2,6 +2,7 @@ This repository contains a collection of machine learning models focused on both
 
 Repository Structure
 Datasets: Contains various datasets used for training and testing the models.
+
 Notebooks: Jupyter notebooks with detailed steps, explanations, and visualizations.
 
 Classification Models
